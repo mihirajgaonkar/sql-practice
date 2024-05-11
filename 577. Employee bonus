@@ -61,7 +61,7 @@ Output:
 | Dan  | 500   |
 +------+-------+
 
-solution
+my solution
 select
     e.name,
     b.bonus

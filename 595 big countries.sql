@@ -46,7 +46,7 @@ Output:
 | Algeria     | 37100000   | 2381741 |
 +-------------+------------+---------+
 
-Solution :
+My Solution :
 select name, population, area from World where area >= 3000000 or population >= 25000000
 
 fastest solution:

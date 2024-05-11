@@ -43,7 +43,7 @@ Explanation:
 In 2015-01-02, the temperature was higher than the previous day (10 -> 25).
 In 2015-01-04, the temperature was higher than the previous day (20 -> 30).
 
-solution
+my solution
 -- Write your PostgreSQL query statement below
 select w1.id
 from Weather w1, Weather w2
